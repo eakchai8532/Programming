@@ -1,0 +1,6 @@
+b1=float(input("Enter number1"))
+b2=float(input("Enter number2"))
+print(b1,"+",b2,"=",b1+b2)
+print(b1,"-",b2,"=",b1-b2)
+print(b1,"*",b2,"=",b1*b2)
+print(b1,"/",b2,"=",b1/b2)
